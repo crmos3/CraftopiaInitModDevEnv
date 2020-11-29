@@ -7,7 +7,7 @@ This is a PowerShell script to build the Craftopia mod development environment.S
 * Creating a Visual Studio solution (Including setting up dependencies and build events)
 
 ## Install
-Place the files in the Craftopia folder.  
+Place InitModDevEnv.ps1 and BuildHook.ps1 in the Craftopia folder.  
 You need to set the proper script execution policy for the LocalUser in PowerShell.
 
 ## How to Use
