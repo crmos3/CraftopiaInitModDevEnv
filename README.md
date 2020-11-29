@@ -1,7 +1,7 @@
 # CraftopiaInitModDevEnv
 
 ## Overview
-This is a PowerShell script to build the Craftopia mod development environment.
+This is a PowerShell script to build the Craftopia mod development environment.Specifically the following processes
 * Installing BepInEx (If you already have BepInEx installed, it will be skipped)
 * Setup BepInEx config
 * Creating a Visual Studio solution (Including setting up dependencies and build events)
